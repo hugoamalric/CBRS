@@ -1,0 +1,6 @@
+logs
+data
+.idea
+target
+plugins/*
+import/*
